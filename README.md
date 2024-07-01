@@ -1,5 +1,7 @@
 Chào ®™©2014-2020 Virgo Sun +84-387554874.
 
+CROSS_PLATFORM iOS Android Windows macOS Linux
+
 1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ 2Mbps -> 150k / 1 SIM.  Ko limit dung lượng. Đến khi hỏng SIM.
 
 1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ 54Mbps -> 550k /1 SIM. Ko limit dung lượng. Đến khi hỏng SIM.
@@ -22,7 +24,7 @@ Lastly, HC and INPV file lack all facility for multiplexing, render them useless
 
 This TunnelsMux app EXPLOITS the ISP network through MEEK protocol.
 ```
-The app exposes a tunneled port to your VPN app of choice - [open-source SocksDroid v1.0.4 recommended](https://github.com/bndeff/socksdroid).
+The app exposes a tunneled port to your VPN app of choice - [open-source SocksDroid v1.0.4 recommended](https://github.com/bndeff/socksdroid) - on Android - or [open-source POTATSO recommended](https://www.potatso.com/) - on iOS - or [Rule based, paid app ShadowRocket](https://shadowrocket-app.com/) 
 ```
 Without an authorization key, app runs in TRIAL mode.
 Tunneled port DISCONNECTED and CHANGED every 1 MINUTE.
