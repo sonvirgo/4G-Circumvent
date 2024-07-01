@@ -2,6 +2,8 @@ Chào ®™©2014-2020 Virgo Sun +84-387554874.
 
 CROSS_PLATFORM iOS Android Windows macOS Linux
 
+Multiple SNI backup load balancing
+
 1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ 2Mbps -> 150k / 1 SIM.  Ko limit dung lượng. Đến khi hỏng SIM.
 
 1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ 54Mbps -> 550k /1 SIM. Ko limit dung lượng. Đến khi hỏng SIM.
