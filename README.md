@@ -2,7 +2,7 @@ Chào ®™©2014-2020 Virgo Sun +84-387554874.
 
 CROSS_PLATFORM iOS Android Windows macOS Linux
 
-Multiple SNI, backup, load balancing, tính năng quét, test connect internet nhiều SNI trực tiếp bên trong app TunnelsMux
+Multiple SNIs, backup, load balancing, tính năng quét, test connect internet nhiều SNI trực tiếp bên trong app TunnelsMux
 ```
 1 số đối tượng dùng Termux, HC, INPV ăn cắp duy nhất 01 SNI IP xxx.x3x.xxx.x7x
 Sẽ bị khóa
