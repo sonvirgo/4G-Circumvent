@@ -7,6 +7,8 @@ CROSS_PLATFORM iOS Android Windows macOS Linux
 1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ 54Mbps (IDM), 10Mbps (Visual Studio Isntaller), 5Mbps (Play Store), 3Mbps (Edge download) -> 550k /1 SIM. Ko limit dung lượng. Đến khi hỏng SIM. 
 
 Multiple SNIs, backup, load balancing, tính năng quét SNIs, test internet nhiều SNIs, trực tiếp bên trong app CORE TunnelsMux
+
+Cảnh báobáo
 ```
 Kể từ tháng 10/2023
 1 số đối tượng dùng Termux, HC, INPV ăn cắp duy nhất 01 SNI IP xxx.x3x.xxx.x7x
@@ -66,6 +68,7 @@ void scan(int a, int b, int c, int d, float t) {
     }
 }
 ```
+
 Lưu ý, nguyên lý ghép kênh chỉ đạt tốc độ cao với 1 số ứng dụng có hỗ trợ tải đa luồng. Mọi quảng cáo SpeedTest Termux 5Mbps 10Mbps cho tất cả ứng dụng đều là bố láo ăn cắp.
 ```
 Căn cứ vào code snippets 
