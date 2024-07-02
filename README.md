@@ -8,7 +8,7 @@ CROSS_PLATFORM iOS Android Windows macOS Linux
 
 Multiple SNIs, backup, load balancing, tính năng quét SNIs, test internet nhiều SNIs, trực tiếp bên trong app CORE TunnelsMux
 
-Cảnh báobáo
+Cảnh báo
 ```
 Kể từ tháng 10/2023
 1 số đối tượng dùng Termux, HC, INPV ăn cắp duy nhất 01 SNI IP xxx.x3x.xxx.x7x
