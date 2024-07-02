@@ -73,7 +73,8 @@ Lưu ý, nguyên lý ghép kênh chỉ đạt tốc độ cao với 1 số ứng
 ```
 Căn cứ vào code snippets 
 Termux ko phân chia đa luồng, do ứng dụng tự đảm nhiệm
-BrainFuck Psiphon Pro Go của aztecrabbit ko có cơ chể tự động gộp đa luồng.
+BrainFuck Psiphon Pro Go của aztecrabbit
+ko có cơ chể tự động gộp đa luồng.
 
 package libproxyrotator
 
