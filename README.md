@@ -69,6 +69,7 @@ void scan(int a, int b, int c, int d, float t) {
 }
 ```
 
+
 Lưu ý, nguyên lý ghép kênh chỉ đạt tốc độ cao với 1 số ứng dụng có hỗ trợ tải đa luồng. Mọi quảng cáo SpeedTest Termux 5Mbps 10Mbps cho tất cả ứng dụng đều là bố láo ăn cắp.
 ```
 Căn cứ vào code snippets 
