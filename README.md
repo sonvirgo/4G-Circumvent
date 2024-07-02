@@ -8,9 +8,18 @@ Multiple SNI backup load balancing
 
 1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ 54Mbps (IDM), 5Mbps (Play Store), 3Mbps (Edge download ) -> 550k /1 SIM. Ko limit dung lượng. Đến khi hỏng SIM. Lưu ý, nguyên lý ghép kênh chỉ đạt tốc độ cao với 1 số ứng dụng có hỗ trợ tải đa luồng. .Mọi quảng cáo SpeedTest Termux 5Mbps 10Mbps cho tất cả ứng dụng đều là bố láo ăn cắp.
 ```
-Termux phân chia đa luồng do ứng dụng đảm nhiệm
+Căn cứ vào code snippet thì
+Termux ko phân chia đa luồng mà do ứng dụng đảm nhiệm
 BrainFuck Psiphon Pro Go ko có cơ chể tự động gộp đa luồng.
 
+package libproxyrotator
+
+import (
+	...
+	"github.com/armon/go-socks5"
+	...
+)
+...
 Dial: func(ctx context.Context, net_, addr string) (net.Conn, error) {
 			for i := 0; i < len(p.Proxies); i++ {
 				proxyAddress, err := p.GetProxy()
@@ -27,12 +36,12 @@ Dial: func(ctx context.Context, net_, addr string) (net.Conn, error) {
 				if err != nil {
 					continue
 				}
-
-				return data, nil
-			}
-
-			return nil, errors.New("proxies not available")
-		},
+...
+if err := server.ListenAndServe("tcp", "0.0.0.0:"+p.Config.Port); err != nil {
+		liblog.LogException(err, "INFO")
+		os.Exit(0)
+	}
+			
 ```
 
 
