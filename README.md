@@ -2,7 +2,65 @@ Chào ®™©2014-2020 Virgo Sun +84-387554874.
 
 CROSS_PLATFORM iOS Android Windows macOS Linux
 
-Multiple SNI backup load balancing
+Multiple SNI, backup, load balancing, tính năng quét, test connect internet nhiều SNI trực tiếp bên trong app TunnelsMux
+```
+1 số đối tượng dùng Termux, HC, INPV ăn cắp duy nhất 01 SNI IP xxx.x3x.xxx.x7x
+Sẽ bị khóa
+Mã code terminal TERMUX scan bug SNI sau là bịp bợm bố láo ăn cắp,
+Không thể quét SNI từ TERMUX
+void scan(int a, int b, int c, int d, float t) {
+    int lv;
+
+    system("date +%H%M >sgr");
+
+    FILE *sG = fopen("sgr", "r");
+    fscanf(sG, "%d", &lv);
+
+    if(lv >= nx) {
+        printf("\033[1;31mThời gian dùng thử của bạn đã hết, vui lòng liên hệ tác giả.\033[0m\n");
+    }
+    else {
+        char buf[250];
+        double m = t;
+        snprintf(buf, 250, "\ncurl https://%d.%d.%d.%d --tlsv1.2 --tls-max 1.2 --connect-timeout %.4f -m %.4f -k -o /dev/null -s -w \"%%{remote_ip} timeout!: %%{response_code}\\n\" > host.txt", a, b, c, d, t, m);
+        char fast[50];
+        char second[50];
+        char buk[250];
+        int sts;
+        system(buf);
+        FILE *fptr;
+        FILE *fptr1;
+        FILE *fptr2;
+        FILE *fp1;
+
+        fptr = fopen("host.txt", "a");
+        fptr1 = fopen("host.txt", "a");
+        fptr2 = fopen("host.txt", "a");
+
+        fptr = fopen("host.txt", "r");
+        fscanf(fptr, "%s", fast);
+
+        system("cut -f 2- -d ' ' host.txt > host1.txt");
+
+        fptr1 = fopen("host1.txt", "r");
+        fscanf(fptr1, "%s", second);
+        system("cut -f 2- -d ' ' host1.txt > host2.txt");
+
+        fptr2 = fopen("host2.txt", "r");
+        fscanf(fptr2, "%d", &sts);
+
+        if(sts == 000) {
+            printf("\033[1;31m%s\033[0m\n", fast);
+        }
+        else {
+            printf("\033[1;32m%s\033[0m ", fast);
+            printf("\033[1;32m√\033[0m\n");
+            snprintf(buk, 250, "echo \"%d.%d.%d.%d\" >>bugs", a, b, c, d);
+            system(buk);
+        }
+    }
+}
+```
 
 1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ 2Mbps -> 150k / 1 SIM.  Ko limit dung lượng. Đến khi hỏng SIM.
 
