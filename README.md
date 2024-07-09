@@ -1,6 +1,6 @@
 Chào ®™©2014-2020 Virgo Sun +84-387554874.
 
-CROSS_PLATFORM iOS Android Windows macOS Linux
+CROSS-PLATFORM TunnelsMux iOS Android Windows macOS Linux
 
 Chính chủ, độc quyền TQ
 
