@@ -2,7 +2,7 @@ Chào ®™©2014-2020 Virgo Sun +84-387554874.
 
 CROSS-PLATFORM TunnelsMux iOS Android Windows macOS Linux
 
-Chính chủ, độc quyền TQ
+Chính chủ, độc quyền TQ (Sim Viettel bất kỳ bạn đang sủ dụng, chúng tôi chỉ bán app)
 
 1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ 2Mbps -> 150k / 1 SIM.  Ko limit dung lượng. Đến khi hỏng SIM.
 
