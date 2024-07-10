@@ -2,11 +2,11 @@ Chào ®™©2014-2020 Virgo Sun +84-387554874.
 
 CROSS-PLATFORM TunnelsMux iOS Android Windows macOS Linux
 
-Chính chủ, độc quyền TQ (Sim Viettel bất kỳ bạn đang sủ dụng, chúng tôi chỉ bán app)
+Chính chủ, độc quyền TQ (Sim Viettel bất kỳ bạn đang sử dụng, chúng tôi chỉ bán app. Không cam kết các chính sách của nhà mạng)
 
-1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ 2Mbps -> 150k / 1 SIM.  Ko limit dung lượng. Đến khi hỏng SIM.
+1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ 2Mbps -> 150k / 1 SIM.  Ko limit dung lượng. Đến khi hỏng SIM. (Bạn đã đồng ý cam kết Mutaul Agreement khi sử dụng app của chúng tôi)
 
-1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ 54Mbps (IDM), 10Mbps (Visual Studio Isntaller), 5Mbps (Play Store), 3Mbps (Edge download).... -> 550k /1 SIM. Ko limit dung lượng. Đến khi hỏng SIM. 
+1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ 54Mbps (IDM), 10Mbps (Visual Studio Isntaller), 5Mbps (Play Store), 3Mbps (Edge download).... -> 550k /1 SIM. Ko limit dung lượng. Đến khi hỏng SIM. (Bạn đã đồng ý cam kết Mutaul Agreement khi sử dụng app của chúng tôi)
 
 Multiple SNIs, backup, load balancing, tính năng quét SNIs, test internet nhiều SNIs, trực tiếp bên trong app CORE TunnelsMux
 
