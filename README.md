@@ -1,6 +1,6 @@
 Chào ®™©2014-2020 Virgo Sun +84-387554874.
 
-CROSS-PLATFORM TunnelsMux iOS Android Windows macOS Linux
+MULTI-PLATROM CROSS-PLATFORM TunnelsMux iOS Android Windows macOS Linux
 
 Chính chủ, độc quyền TQ (Sim Viettel bất kỳ bạn đang sử dụng, chúng tôi chỉ bán app)
 
