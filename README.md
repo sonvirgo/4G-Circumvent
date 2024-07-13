@@ -7,18 +7,13 @@ Chính chủ, độc quyền TQ (Sim Viettel 0đ 0nền, bất kỳ, bạn đang
 
 Multiple SNIs, backup, load balancing, tính năng quét SNIs, test internet nhiều SNIs, trực tiếp bên trong app CORE TunnelsMux
 
-
-
 ```Cảnh báo lừa đảo trên mạng xã hội, Otofun.net, Voz.vn, GocMod.com, Openwrt Việt nam Facebook, Nhóm Psiphon Zalo,..v.v. Do dối tượng người nước ngoài aztecrabbit cầm đầu (đã bị cơ quan an ninh FSB đưa vào danh sách đen), xem ở đây:``` [aztecrabbit's bugscanner issues#16](https://github.com/aztecrabbit/bugscanner/issues/16)
-
 
 ![image](https://github.com/user-attachments/assets/cfe60c54-4368-42cb-b5de-ae1cbdcae912) [![Github All Releases](https://img.shields.io/github/downloads/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/total.svg)]() 
 
-iPhone Laptop/PC MacBook``` ```Linux``` ```Android Home/SOHO Server ..   
+iPhone Laptop/PC MacBook```  ```Linux```.  ```Android Home/SOHO Server ..   
 
 [<img src="https://github.com/user-attachments/assets/9891099d-8b3a-4356-a79f-006cf52f2a85">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases/download/ipa/TunnelsMux.ipa)```   ```[<img src="https://github.com/user-attachments/assets/3e9ee380-d603-4cb1-b889-6fd1bdca64ac">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases/download/exe/TunnelsMux-x86_64.zip)```   ```[<img src="https://github.com/user-attachments/assets/ca32a918-2fcc-4ae6-bb9d-3dd93eb1af70">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases/download/darwin/TunnelsMux-x86_64.zip)```   ```[<img src="https://github.com/user-attachments/assets/87010635-9e92-4bd0-ba1c-c7b8b21fc88f">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases/download/linux/TunnelsMux-x86_64.zip)```   ```[<img src="https://github.com/user-attachments/assets/f3bd22ee-302b-4aab-bd69-ba086166e7dd">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases/download/apk/app-armeabi-v7a-release.apk)
-
-
 
 1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ giới hạn 2Mbps -> 150k / 1 SIM.  Ko limit dung lượng. Đến khi hỏng SIM. (Bạn đã hiểu và đồng ý cam kết Mutual Agreement khi sử dụng app của chúng tôi. Chúng tôi luôn hỗ trợ bền bỉ tối đa, sản phẩm, dịch vụ chuyên nghiệp, độc đáo, có 1-0-2, trong khả năng có thể. Chúng tôi không cam kết các chính sách của nhà mạng. Chúng tôi không cam kết dịch vụ máy chủ VPS V2RAY)
 
@@ -125,7 +120,6 @@ if err := server.ListenAndServe("tcp", "0.0.0.0:"+p.Config.Port); err != nil {
 			
 ```
 
-
 Thanks to the Tor BSD Diversity Project  and inspire from this fork https://github.com/sonvirgo/meek
 
 ```
@@ -152,7 +146,6 @@ To activate app to FIXED tunneled port UNINTERRUPTED. Contact the author!!!!
 Thanks to all the loyalty customers so far! :D
 ```
 
-
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/gNp4vhKzqIo/0.jpg)](https://www.youtube.com/watch?v=LSjL13jmjUA)
 ![image](https://github.com/sonvirgo/sonvirgo/assets/10823037/17d2bacb-67b2-4087-8379-b2f8551fce08)
 <img width="762" alt="image" src="https://github.com/sonvirgo/4G-Circumvent/assets/10823037/a81915c6-4b58-4eb6-b931-35bf0df1c1dd">
@@ -175,12 +168,10 @@ How much does it cost:
 
 [![IMAGE ALT TEXT HERE](https://github.com/sonvirgo/4G-Circumvent/assets/10823037/54ff2872-d053-4c04-9113-89166f208e01)](https://www.youtube.com/watch?v=K3uY3K2k3eg)
 
-
 ![Screenshot_20240315-111410](https://github.com/sonvirgo/4G-Circumvent/assets/10823037/ab83e198-18d5-4db0-8797-917126330a82)
 
 ![z5165194400343_7daf64321ece92911539069a9695679c](https://github.com/sonvirgo/4G-Circumvent/assets/10823037/64116b6b-eb25-4cf8-b32f-5b320e999b48)
 ![Screenshot 2024-02-16 at 15 15 35](https://github.com/sonvirgo/4G-Circumvent/assets/10823037/b229111c-ecf9-4cc0-b9ae-de2d634a83e1)
-
 
 ![image](https://github.com/sonvirgo/4G-Circumvent/assets/10823037/2030d1f0-2926-4a0d-86a2-9a2a0e8dcc8e)
 
@@ -189,17 +180,14 @@ How much does it cost:
 
 ![image](https://github.com/sonvirgo/4G-Circumvent/assets/10823037/ae703f7f-cbeb-4f9e-b8f9-6c999c761b66)
 
-
 ![image](https://github.com/sonvirgo/4G-Circumvent/assets/10823037/be99ba1a-c636-40ea-b186-39175506ddf2)
 
 ![image](https://github.com/sonvirgo/4G-Curcumvent/assets/10823037/cb1f73fa-2387-48f2-9fe2-1e8118469ae2)
-
 
 ![Screenshot 2024-01-09 110444](https://github.com/sonvirgo/4G-Circumvent/assets/10823037/b3245eff-2c2a-4012-94a1-35edbf13df60)
 ![Screenshot 2024-01-09 110538](https://github.com/sonvirgo/4G-Circumvent/assets/10823037/3502eb4b-d61a-4d8a-8080-37613a062662)
 ![Screenshot 2024-01-09 110222](https://github.com/sonvirgo/4G-Circumvent/assets/10823037/f39427ca-dbb1-44b8-aa8e-8e2cdb8b988a)
 ![Screenshot 2024-01-09 111836](https://github.com/sonvirgo/4G-Circumvent/assets/10823037/38b3a5e2-e74c-439c-be53-0c61890538c9)
-
 
 ![425936998_3273179726320005_7350559048678956135_n](https://github.com/sonvirgo/4G-Circumvent/assets/10823037/6d4f047a-2f72-4db9-b8bd-a7ae90d47bc5)
 ![Screenshot 2024-02-04 at 21 15 02](https://github.com/sonvirgo/4G-Circumvent/assets/10823037/1737b449-284a-4c2b-9ab1-f9f2cae2837b)
@@ -217,10 +205,7 @@ How much does it cost:
 ![image](https://github.com/sonvirgo/4G-Circumvent/assets/10823037/de75b80a-6e1a-4be5-932d-bd66236e07eb)
 ![Screenshot_20240628-221545](https://github.com/sonvirgo/4G-Circumvent/assets/10823037/b7f27150-b282-4e92-900d-bf6bf2b28850)
 
-
 ![Screenshot_20240628-221334](https://github.com/sonvirgo/4G-Circumvent/assets/10823037/5d575efc-25d5-49f8-bd50-3fc2f2e824db)
 ![image](https://github.com/sonvirgo/4G-Circumvent-Commercial-Grade-Number-1-Nation-Wide/assets/10823037/3710a5af-2dff-4468-91c5-b809754bb273)
 ![image](https://github.com/sonvirgo/4G-Circumvent-Commercial-Grade-Number-1-Nation-Wide/assets/10823037/e699de6f-ef46-48b0-b09e-cd60c4de01b2)
 ![image](https://github.com/sonvirgo/4G-Circumvent-Commercial-Grade-Number-1-Nation-Wide/assets/10823037/6a294143-c86d-4424-ba29-9125c6c6df59)
-
-
