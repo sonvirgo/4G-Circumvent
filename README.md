@@ -3,11 +3,13 @@
 Chào ®™©2014-2020 Virgo Sun +84-387554874.
 4G SNI MultiScan®™©2014-2020[<img src="https://github.com/user-attachments/assets/5d48f454-e3b5-4052-9484-e39bc6de5fe6">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases)TunnelsMux software a [<img src="https://github.com/user-attachments/assets/4cd44ede-2ce8-41ff-a8d9-accb333e7069">](https://psiphon.ca/)'s sibling in the Cat and Mouse gane against ISP's chase, for decades.
 
-Cảnh báo lừa đảo trên mạng xã hội, Voz.vn, GocMod.com, Openwrt Việt nam Facebook, Nhóm Psiphon Zalo ..v.v. Xem ở đây [aztecrabbit's bugscanner issues#16](https://github.com/aztecrabbit/bugscanner/issues/16)
+Multiple SNIs, backup, load balancing, tính năng quét SNIs, test internet nhiều SNIs, trực tiếp bên trong app CORE TunnelsMux
+
+```Cảnh báo lừa đảo trên mạng xã hội, Voz.vn, GocMod.com, Openwrt Việt nam Facebook, Nhóm Psiphon Zalo ..v.v. Xem ở đây [aztecrabbit's bugscanner issues#16](https://github.com/aztecrabbit/bugscanner/issues/16)```
 
 iPhone MacBook PC Home/SOHO Server Android Laptop Linux
 
-Multiple SNIs, backup, load balancing, tính năng quét SNIs, test internet nhiều SNIs, trực tiếp bên trong app CORE TunnelsMux
+
 
 ![image](https://github.com/user-attachments/assets/cfe60c54-4368-42cb-b5de-ae1cbdcae912) [![Github All Releases](https://img.shields.io/github/downloads/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/total.svg)]() 
 
