@@ -8,6 +8,10 @@ MULTI-DEVICE MULTI-PLATROM CROSS-PLATFORM
 
 iPhone Android Laptop MacBook PC Home/SOHO Server 
 
+Download below
+
+[<img src="https://github.com/user-attachments/assets/c0d337b5-4adf-4b30-b178-77784be8b10">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases/download/apk/app-armeabi-v7a-release.apk)
+
 Chính chủ, độc quyền TQ (Sim Viettel bất kỳ bạn đang sử dụng, chúng tôi chỉ bán app)
 
 1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ giới hạn 2Mbps -> 150k / 1 SIM.  Ko limit dung lượng. Đến khi hỏng SIM. (Bạn đã hiểu và đồng ý cam kết Mutual Agreement khi sử dụng app của chúng tôi. Chúng tôi luôn hỗ trợ bền bỉ tối đa, sản phẩm, dịch vụ chuyên nghiệp, độc đáo, có 1-0-2, trong khả năng có thể. Chúng tôi không cam kết các chính sách của nhà mạng. Chúng tôi không cam kết dịch vụ máy chủ VPS V2RAY)
