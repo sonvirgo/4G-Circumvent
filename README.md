@@ -1,7 +1,7 @@
 # MULTI-SNI MULTI-SCAN MULTI-DEVICE CROSS-PLATFORM 
 4G SNI MultiScan®™©2014-2020[<img src="https://github.com/user-attachments/assets/5d48f454-e3b5-4052-9484-e39bc6de5fe6">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases)TunnelsMux software a [<img src="https://github.com/user-attachments/assets/4cd44ede-2ce8-41ff-a8d9-accb333e7069">](https://psiphon.ca/)'s sibling in the Cat and Mouse gane against ISP's chase, for decades.
 
-
+Cảnh báo lừa đảo trên mạng xã hội, Voz.vn, GocMod.com, Openwrt Việt nam Facebook, Nhóm Psiphon Zalo ..v.v. Xem ở đây [aztecrabbit's bugscanner issues#16](https://github.com/aztecrabbit/bugscanner/issues/16)
 
 Chào ®™©2014-2020 Virgo Sun +84-387554874.
 
@@ -18,10 +18,6 @@ Chính chủ, độc quyền TQ (Sim Viettel bất kỳ bạn đang sử dụng,
 1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ giới hạn 2Mbps -> 150k / 1 SIM.  Ko limit dung lượng. Đến khi hỏng SIM. (Bạn đã hiểu và đồng ý cam kết Mutual Agreement khi sử dụng app của chúng tôi. Chúng tôi luôn hỗ trợ bền bỉ tối đa, sản phẩm, dịch vụ chuyên nghiệp, độc đáo, có 1-0-2, trong khả năng có thể. Chúng tôi không cam kết các chính sách của nhà mạng. Chúng tôi không cam kết dịch vụ máy chủ VPS V2RAY)
 
 1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ giới hạn 54Mbps -> 550k /1 SIM. Ko limit dung lượng. Đến khi hỏng SIM. 54mbps (IDM), 10Mbps (Visual Studio Isntaller), 5Mbps (Play Store), 3Mbps (Edge download).... (Bạn đã hiểu và đồng ý cam kết Mutual Agreement khi sử dụng app của chúng tôi. Chúng tôi luôn hỗ trợ bền bỉ tối đa, sản phẩm, dịch vụ chuyên nghiệp, độc đáo, có 1-0-2, trong khả năng có thể. Chúng tôi không cam kết các chính sách của nhà mạng. Chúng tôi không cam kết dịch vụ máy chủ VPS V2RAY)
-
-
-
-Cảnh báo lừa đảo trên mạng xã hội, Voz.vn, GocMod.com, Openwrt Việt nam Facebook, Nhóm Psiphon Zalo ..v.v. https://github.com/aztecrabbit/bugscanner/issues/16
 
 Termux + aztecrabit's Brainfuck Psiphon Pro Go ko thể chạy trên iOS và iPhone :D
 ```
