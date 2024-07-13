@@ -1,13 +1,15 @@
 # MULTI-SNI MULTI-SCAN MULTI-DEVICE CROSS-PLATFORM 
 4G SNI MultiScan®™©2014-2020[<img src="https://github.com/user-attachments/assets/5d48f454-e3b5-4052-9484-e39bc6de5fe6">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases)TunnelsMux software a [<img src="https://github.com/user-attachments/assets/4cd44ede-2ce8-41ff-a8d9-accb333e7069">](https://psiphon.ca/)'s sibling in the Cat and Mouse game against ISPs for decades.
 
-[![Github All Releases](https://img.shields.io/github/downloads/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/total.svg)]()
+
 
 Chào ®™©2014-2020 Virgo Sun +84-387554874.
 
 iPhone Android Laptop MacBook PC Home/SOHO Server 
 
-Download here
+Multiple SNIs, backup, load balancing, tính năng quét SNIs, test internet nhiều SNIs, trực tiếp bên trong app CORE TunnelsMux
+
+[![Github All Releases](https://img.shields.io/github/downloads/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/total.svg)]() here
 
 [<img src="https://github.com/user-attachments/assets/9891099d-8b3a-4356-a79f-006cf52f2a85">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases/download/ipa/TunnelsMux.ipa)```   ```[<img src="https://github.com/user-attachments/assets/3e9ee380-d603-4cb1-b889-6fd1bdca64ac">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases/download/exe/TunnelsMux-x86_64.zip)```   ```[<img src="https://github.com/user-attachments/assets/f3bd22ee-302b-4aab-bd69-ba086166e7dd">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases/download/apk/app-armeabi-v7a-release.apk)```   ```[<img src="https://github.com/user-attachments/assets/87010635-9e92-4bd0-ba1c-c7b8b21fc88f">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases/download/linux/TunnelsMux-x86_64.zip)```   ```[<img src="https://github.com/user-attachments/assets/ca32a918-2fcc-4ae6-bb9d-3dd93eb1af70">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases/download/darwin/TunnelsMux-x86_64.zip)
 
@@ -17,7 +19,7 @@ Chính chủ, độc quyền TQ (Sim Viettel bất kỳ bạn đang sử dụng,
 
 1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ giới hạn 54Mbps -> 550k /1 SIM. Ko limit dung lượng. Đến khi hỏng SIM. 54mbps (IDM), 10Mbps (Visual Studio Isntaller), 5Mbps (Play Store), 3Mbps (Edge download).... (Bạn đã hiểu và đồng ý cam kết Mutual Agreement khi sử dụng app của chúng tôi. Chúng tôi luôn hỗ trợ bền bỉ tối đa, sản phẩm, dịch vụ chuyên nghiệp, độc đáo, có 1-0-2, trong khả năng có thể. Chúng tôi không cam kết các chính sách của nhà mạng. Chúng tôi không cam kết dịch vụ máy chủ VPS V2RAY)
 
-Multiple SNIs, backup, load balancing, tính năng quét SNIs, test internet nhiều SNIs, trực tiếp bên trong app CORE TunnelsMux
+
 
 Cảnh báo lừa đảo trên mạng xã hội, Voz.vn, GocMod.com, Openwrt Việt nam Facebook, Nhóm Psiphon Zalo ..v.v.
 
