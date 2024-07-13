@@ -5,7 +5,7 @@
 
 Chào ®™©2014-2020 Virgo Sun +84-387554874.
 
-iPhone Android Laptop MacBook PC Home/SOHO Server 
+iPhone MacBook PC Home/SOHO Server Android Laptop Linux
 
 Multiple SNIs, backup, load balancing, tính năng quét SNIs, test internet nhiều SNIs, trực tiếp bên trong app CORE TunnelsMux
 
