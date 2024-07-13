@@ -8,11 +8,11 @@ Chính chủ, độc quyền TQ (Sim Viettel 0đ 0nền, bất kỳ, bạn đang
 Multiple SNIs, backup, load balancing, tính năng quét SNIs, test internet nhiều SNIs, trực tiếp bên trong app CORE TunnelsMux
 
 ```Cảnh báo lừa đảo trên mạng xã hội, Otofun.net, Voz.vn, GocMod.com, Openwrt Việt nam Facebook, Nhóm Psiphon Zalo,..v.v. Do dối tượng người nước ngoài aztecrabbit cầm đầu (đã bị cơ quan an ninh FSB đưa vào danh sách đen), xem ở đây:``` [aztecrabbit's bugscanner issues#16](https://github.com/aztecrabbit/bugscanner/issues/16)
+```
 
+```
 ![image](https://github.com/user-attachments/assets/cfe60c54-4368-42cb-b5de-ae1cbdcae912) [![Github All Releases](https://img.shields.io/github/downloads/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/total.svg)]() 
-
-iPhone Laptop/PC MacBook```  ```Linux```  ```Android Home/SOHO Server ..   
-
+iPhone Laptop/PC MacBook```  ```Linux```  ```Android```    ```Home/SOHO Server ..   
 [<img src="https://github.com/user-attachments/assets/9891099d-8b3a-4356-a79f-006cf52f2a85">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases/download/ipa/TunnelsMux.ipa)```   ```[<img src="https://github.com/user-attachments/assets/3e9ee380-d603-4cb1-b889-6fd1bdca64ac">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases/download/exe/TunnelsMux-x86_64.zip)```   ```[<img src="https://github.com/user-attachments/assets/ca32a918-2fcc-4ae6-bb9d-3dd93eb1af70">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases/download/darwin/TunnelsMux-x86_64.zip)```   ```[<img src="https://github.com/user-attachments/assets/87010635-9e92-4bd0-ba1c-c7b8b21fc88f">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases/download/linux/TunnelsMux-x86_64.zip)```   ```[<img src="https://github.com/user-attachments/assets/f3bd22ee-302b-4aab-bd69-ba086166e7dd">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases/download/apk/app-armeabi-v7a-release.apk)
 
 1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ giới hạn 2Mbps -> 150k / 1 SIM.  Ko limit dung lượng. Đến khi hỏng SIM. (Bạn đã hiểu và đồng ý cam kết Mutual Agreement khi sử dụng app của chúng tôi. Chúng tôi luôn hỗ trợ bền bỉ tối đa, sản phẩm, dịch vụ chuyên nghiệp, độc đáo, có 1-0-2, trong khả năng có thể. Chúng tôi không cam kết các chính sách của nhà mạng. Chúng tôi không cam kết dịch vụ máy chủ VPS V2RAY)
