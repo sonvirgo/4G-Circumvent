@@ -1,7 +1,7 @@
 # MULTI-SNI MULTI-SCAN MULTI-DEVICE CROSS-PLATFORM 
 Chào ®™©2014-2020 Virgo Sun +84-387554874.
 
-Chính chủ, độc quyền TQ (Sim Viettel 0đ 0nền, bất kỳ, bạn đang sử dụng, chúng tôi chỉ bán app)
+Chính chủ, độc quyền TQ (Sim Viettel 0đ 0nền, bất kỳ, bạn đang sử dụng, chúng tôi chỉ bán app - link tải phía dưới)
 
 4G SNI MultiScan®™©2014-2020[<img src="https://github.com/user-attachments/assets/5d48f454-e3b5-4052-9484-e39bc6de5fe6">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases)TunnelsMux software a [<img src="https://github.com/user-attachments/assets/4cd44ede-2ce8-41ff-a8d9-accb333e7069">](https://psiphon.ca/)'s sibling in the Cat and Mouse game against ISP's chase, for decades.
 
