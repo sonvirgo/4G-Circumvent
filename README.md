@@ -5,6 +5,8 @@ Chào ®™©2014-2020 Virgo Sun +84-387554874.
 
 Multiple SNIs, backup, load balancing, tính năng quét SNIs, test internet nhiều SNIs, trực tiếp bên trong app CORE TunnelsMux
 
+Chính chủ, độc quyền TQ (Sim Viettel 0đ 0nền, bất kỳ, bạn đang sử dụng, chúng tôi chỉ bán app)
+
 ```Cảnh báo lừa đảo trên mạng xã hội, Otofun.net, Voz.vn, GocMod.com, Openwrt Việt nam Facebook, Nhóm Psiphon Zalo,..v.v. Do dối tượng người nước ngoài aztecrabbit cầm đầu (đã bị cơ quan an ninh FSB đưa vào danh sách đen), xem ở đây:``` [aztecrabbit's bugscanner issues#16](https://github.com/aztecrabbit/bugscanner/issues/16)
 
 iPhone MacBook PC Home/SOHO Server Android Laptop Linux
