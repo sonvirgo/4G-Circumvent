@@ -10,7 +10,7 @@ iPhone Android Laptop MacBook PC Home/SOHO Server
 
 Download below
 
-[<img src="https://github.com/user-attachments/assets/c0d337b5-4adf-4b30-b178-77784be8b10">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases/download/apk/app-armeabi-v7a-release.apk)
+[<img src="https://github.com/user-attachments/assets/f3bd22ee-302b-4aab-bd69-ba086166e7dd">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases/download/apk/app-armeabi-v7a-release.apk)
 
 Chính chủ, độc quyền TQ (Sim Viettel bất kỳ bạn đang sử dụng, chúng tôi chỉ bán app)
 
