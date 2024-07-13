@@ -9,6 +9,7 @@ Multiple SNIs, backup, load balancing, tính năng quét SNIs, test internet nhi
 
 ```Cảnh báo lừa đảo trên mạng xã hội, Otofun.net, Voz.vn, GocMod.com, Openwrt Việt nam Facebook, Nhóm Psiphon Zalo,..v.v. Do dối tượng người nước ngoài aztecrabbit cầm đầu (đã bị cơ quan an ninh FSB đưa vào danh sách đen), xem ở đây:``` [aztecrabbit's bugscanner issues#16](https://github.com/aztecrabbit/bugscanner/issues/16)
 ``` ```
+
 ![image](https://github.com/user-attachments/assets/cfe60c54-4368-42cb-b5de-ae1cbdcae912) [![Github All Releases](https://img.shields.io/github/downloads/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/total.svg)]() 
 
 iPhone Laptop/PC MacBook```  ```Linux```  ```Android```    ```Home/SOHO Server ..   
