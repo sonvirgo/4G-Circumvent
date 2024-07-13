@@ -14,7 +14,7 @@ Multiple SNIs, backup, load balancing, tính năng quét SNIs, test internet nhi
 
 ![image](https://github.com/user-attachments/assets/cfe60c54-4368-42cb-b5de-ae1cbdcae912) [![Github All Releases](https://img.shields.io/github/downloads/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/total.svg)]() 
 
-iPhone Laptop/PC MacBook    Linux Android Home/SOHO Server ..   
+iPhone Laptop/PC MacBook```   ```Linux Android Home/SOHO Server ..   
 
 [<img src="https://github.com/user-attachments/assets/9891099d-8b3a-4356-a79f-006cf52f2a85">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases/download/ipa/TunnelsMux.ipa)```   ```[<img src="https://github.com/user-attachments/assets/3e9ee380-d603-4cb1-b889-6fd1bdca64ac">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases/download/exe/TunnelsMux-x86_64.zip)```   ```[<img src="https://github.com/user-attachments/assets/ca32a918-2fcc-4ae6-bb9d-3dd93eb1af70">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases/download/darwin/TunnelsMux-x86_64.zip)```   ```[<img src="https://github.com/user-attachments/assets/87010635-9e92-4bd0-ba1c-c7b8b21fc88f">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases/download/linux/TunnelsMux-x86_64.zip)```   ```[<img src="https://github.com/user-attachments/assets/f3bd22ee-302b-4aab-bd69-ba086166e7dd">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases/download/apk/app-armeabi-v7a-release.apk)
 
