@@ -10,7 +10,15 @@ iPhone Android Laptop MacBook PC Home/SOHO Server
 
 Download below
 
+[<img src="https://github.com/user-attachments/assets/f3bd22ee-302b-4aab-bd69-ba086166e7dd">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases/download/ipa/TunnelsMux.ipa)
+
 [<img src="https://github.com/user-attachments/assets/f3bd22ee-302b-4aab-bd69-ba086166e7dd">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases/download/apk/app-armeabi-v7a-release.apk)
+
+[<img src="https://github.com/user-attachments/assets/f3bd22ee-302b-4aab-bd69-ba086166e7dd">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases/download/darwin/TunnelsMux-x86_64.zip)
+
+[<img src="https://github.com/user-attachments/assets/f3bd22ee-302b-4aab-bd69-ba086166e7dd">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases/download/exe/TunnelsMux-x86_64.zip)
+
+[<img src="https://github.com/user-attachments/assets/f3bd22ee-302b-4aab-bd69-ba086166e7dd">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases/download/linux/TunnelsMux-x86_64.zip)
 
 Chính chủ, độc quyền TQ (Sim Viettel bất kỳ bạn đang sử dụng, chúng tôi chỉ bán app)
 
