@@ -21,7 +21,7 @@ Chính chủ, độc quyền TQ (Sim Viettel bất kỳ bạn đang sử dụng,
 
 
 
-Cảnh báo lừa đảo trên mạng xã hội, Voz.vn, GocMod.com, Openwrt Việt nam Facebook, Nhóm Psiphon Zalo ..v.v.
+Cảnh báo lừa đảo trên mạng xã hội, Voz.vn, GocMod.com, Openwrt Việt nam Facebook, Nhóm Psiphon Zalo ..v.v. https://github.com/aztecrabbit/bugscanner/issues/16
 
 Termux + aztecrabit's Brainfuck Psiphon Pro Go ko thể chạy trên iOS và iPhone :D
 ```
