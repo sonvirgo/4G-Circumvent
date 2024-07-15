@@ -1,5 +1,5 @@
 # MULTI-SNI MULTI-SCAN MULTI-DEVICE CROSS-PLATFORM 
-Chào ®™©2014-2020 Virgo Sun +84-387554874.
+Chào ®™©2014-2020 Virgo Sun +84-387554874. Kỷ niệm 5 năm app TunnelsMux!!! 2019-2024
 
 Chính chủ, độc quyền TQ (Sim Viettel 0đ 0nền, bất kỳ, bạn đang sử dụng), chúng tôi chỉ bán app - link tải phía dưới.
 
@@ -7,7 +7,7 @@ Chính chủ, độc quyền TQ (Sim Viettel 0đ 0nền, bất kỳ, bạn đang
 
 Multiple SNIs, backup, load balancing, tính năng quét SNIs, test internet nhiều SNIs, trực tiếp bên trong app CORE TunnelsMux
 
-```Cảnh báo lừa đảo trên mạng xã hội, Otofun.net, Voz.vn, GocMod.com, Openwrt Việt nam Facebook, Nhóm Psiphon Zalo,..v.v. Do đối tượng người nước ngoài aztecrabbit cầm đầu (đã bị cơ quan an ninh FSB đưa vào danh sách đen), xem ở đây:``` [on Dec 12, 2022 aztecrabbit's bugscanner issues#16](https://github.com/aztecrabbit/bugscanner/issues/16)
+```Cảnh báo lừa đảo, kể từ tháng 10/2023 trên mạng xã hội, Otofun.net, Voz.vn, GocMod.com, Openwrt Việt nam Facebook, Nhóm Psiphon Zalo,..v.v. Do đối tượng người nước ngoài aztecrabbit cầm đầu (đã bị cơ quan an ninh FSB đưa vào danh sách đen), xem ở đây:``` [on Dec 12, 2022 aztecrabbit's bugscanner issues#16](https://github.com/aztecrabbit/bugscanner/issues/16)
 ``` ```
 
 ``` ```
