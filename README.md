@@ -4,7 +4,7 @@ Kỷ niệm 5 năm app TunnelsMux!!! 2019-2024. (click to see video)\
 [![ỷ niệm 5 năm app TunnelsMux!!! 2019-2024. (click to see video)](https://img.youtube.com/vi/BaKaBl93XiE/0.jpg)](https://www.youtube.com/watch?v=BaKaBl93XiE "Kỷ niệm 5 năm app TunnelsMux!!! 2019-2024. (click to see video)") \
 Chính chủ, độc quyền TQ (Sim Viettel 0đ 0nền, bất kỳ, bạn đang sử dụng), chúng tôi chỉ bán app - link tải phía dưới.
 
-4G SNI MultiScan®™©2014-2020[<img src="https://github.com/user-attachments/assets/5d48f454-e3b5-4052-9484-e39bc6de5fe6">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases)TunnelsMux software a [<img src="https://github.com/user-attachments/assets/4cd44ede-2ce8-41ff-a8d9-accb333e7069">](https://psiphon.ca/)'s sibling in the Cat and Mouse game against ISP's chase, for decades.
+4G SNI MultiScan®™©2014-2020[<img src="https://github.com/user-attachments/assets/5d48f454-e3b5-4052-9484-e39bc6de5fe6">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases)TunnelsMux software a [<img src="https://github.com/user-attachments/assets/4cd44ede-2ce8-41ff-a8d9-accb333e7069">](https://psiphon.ca/)'s sibling in the Cat and Mouse game against ISP's chase, for decades. Co-operative speed accalaration with [<img src="https://github.com/user-attachments/assets/b94bfae5-e93a-459e-b16d-5faa8f4dd41f">](https://mirror2.internetdownloadmanager.com/idman642build15.exe?v=lt&filename=idman642build15.exe)
 
 Multiple SNIs, backup, load balancing, tính năng quét SNIs, test internet nhiều SNIs, trực tiếp bên trong app CORE TunnelsMux
 
@@ -23,26 +23,23 @@ iPhone Laptop/PC MacBook```  ```Linux```  ```Android```    ```Home/SOHO Server .
 1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ giới hạn 54Mbps -> 550k /1 SIM. Ko limit dung lượng. Đến khi hỏng SIM. 54mbps (IDM), 10Mbps (Visual Studio Isntaller), 5Mbps (Play Store), 3Mbps (Edge download).... (Bạn đã hiểu và đồng ý cam kết Mutual Agreement khi sử dụng app của chúng tôi. Chúng tôi luôn hỗ trợ bền bỉ tối đa, sản phẩm, dịch vụ chuyên nghiệp, độc đáo, có 1-0-2, trong khả năng có thể. Chúng tôi không cam kết các chính sách của nhà mạng. Chúng tôi không cam kết dịch vụ máy chủ VPS V2RAY)\
 
 ```
-MTOSocks5 <---> socks proxy server 1  <-> direct IP access internet, cap at 1Mbps
+MTOSocks5 <---> socks5 server 1  <-> internet, cap at 1Mbps
             :                               
             :                                    
             :
             :
-            :-> socks proxy server 2  <-> direct IP access internet, cap at 5Mbps
+            :-> socks5 server 2  <-> internet, cap at 5Mbps
             :                               
             :                                    
             :
             :
-            :-> socks proxy server 3  <-> direct IP access internet, cap at 3Mbps
+            :-> socks5 server 3  <-> internet, cap at 3Mbps
 ```                                     
-               
-
-
-Request threaded download manager 
+	
+Require threaded download manager 
+[<img src="https://github.com/user-attachments/assets/b94bfae5-e93a-459e-b16d-5faa8f4dd41f">](https://mirror2.internetdownloadmanager.com/idman642build15.exe?v=lt&filename=idman642build15.exe)
 
 ![image](https://github.com/user-attachments/assets/fb2c8ecd-9f48-4e04-bc4c-45fd35f02fe2)
-
-
 
 Termux + aztecrabit's Brainfuck Psiphon Pro Go ko thể chạy trên iOS và iPhone :D
 ```
