@@ -20,7 +20,7 @@ iPhone Laptop/PC MacBook```  ```Linux```  ```Android```    ```Home/SOHO Server .
 
 1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ giới hạn 2Mbps -> 150k / 1 SIM.  Ko limit dung lượng. Đến khi hỏng SIM. (Bạn đã hiểu và đồng ý cam kết Mutual Agreement khi sử dụng app của chúng tôi. Chúng tôi luôn hỗ trợ bền bỉ tối đa, sản phẩm, dịch vụ chuyên nghiệp, độc đáo, có 1-0-2, trong khả năng có thể. Chúng tôi không cam kết các chính sách của nhà mạng. Chúng tôi không cam kết dịch vụ máy chủ VPS V2RAY)
 
-1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ giới hạn 54Mbps -> 550k /1 SIM. Ko limit dung lượng. Đến khi hỏng SIM. 54mbps (IDM), 10Mbps (Visual Studio Isntaller), 5Mbps (Play Store), 3Mbps (Edge download).... (Bạn đã hiểu và đồng ý cam kết Mutual Agreement khi sử dụng app của chúng tôi. Chúng tôi luôn hỗ trợ bền bỉ tối đa, sản phẩm, dịch vụ chuyên nghiệp, độc đáo, có 1-0-2, trong khả năng có thể. Chúng tôi không cam kết các chính sách của nhà mạng. Chúng tôi không cam kết dịch vụ máy chủ VPS V2RAY)
+1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ giới hạn 54Mbps -> 550k /1 SIM. Ko limit dung lượng. Đến khi hỏng SIM. 54mbps (IDM aka Internet Download Manager), 10Mbps (Visual Studio Isntaller), 5Mbps (Play Store), 3Mbps (Edge download).... (Bạn đã hiểu và đồng ý cam kết Mutual Agreement khi sử dụng app của chúng tôi. Chúng tôi luôn hỗ trợ bền bỉ tối đa, sản phẩm, dịch vụ chuyên nghiệp, độc đáo, có 1-0-2, trong khả năng có thể. Chúng tôi không cam kết các chính sách của nhà mạng. Chúng tôi không cam kết dịch vụ máy chủ VPS V2RAY)
 
 ```
 MTOSocks5 <---> socks5 server 1  <-> internet, cap at 1Mbps
