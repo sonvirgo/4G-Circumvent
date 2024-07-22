@@ -6,7 +6,7 @@ Chính chủ, độc quyền TQ (Sim Viettel 0đ 0nền, bất kỳ, bạn đang
 
 4G SNI MultiScan™©2014-2020 [<img src="https://github.com/user-attachments/assets/5d48f454-e3b5-4052-9484-e39bc6de5fe6">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases)TunnelsMux® software, a [<img src="https://github.com/user-attachments/assets/4cd44ede-2ce8-41ff-a8d9-accb333e7069">](https://psiphon.ca/)'s sibling in the Cat and Mouse game against ISP's chase, for decades. [<img src="https://github.com/user-attachments/assets/b94bfae5-e93a-459e-b16d-5faa8f4dd41f">](https://mirror2.internetdownloadmanager.com/idman642build15.exe?v=lt&filename=idman642build15.exe) with co-operative speed acceleration!!!. 
 
-Multiple SNIs, backup, load balancing, tính năng quét SNIs, test internet nhiều SNIs, trực tiếp bên trong app CORE TunnelsMux.  Tính năng chống theo dõi , thâm nhập, evade DPI  aka Deep Packet Inspection.
+Multiple SNIs, backup, load balancing, tính năng quét SNIs, test internet nhiều SNIs, trực tiếp bên trong app CORE TunnelsMux.  Tính năng chống theo dõi,, thâm nhập, evade DPI  aka Deep Packet Inspection.
 
 ```Cảnh báo lừa đảo, kể từ tháng 10/2023 trên mạng xã hội, Otofun.net, Voz.vn, GocMod.com, Openwrt Việt nam Facebook, Nhóm Psiphon Zalo,..v.v. Do đối tượng người nước ngoài aztecrabbit cầm đầu (đã bị cơ quan an ninh FSB đưa vào danh sách đen), xem ở đây:``` [on Dec 12, 2022 aztecrabbit's bugscanner issues#16](https://github.com/aztecrabbit/bugscanner/issues/16)
 ``` ```
