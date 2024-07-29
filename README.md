@@ -8,10 +8,6 @@ Chính chủ, độc quyền TQ (Sim Viettel 0đ 0nền, bất kỳ, bạn đang
 
 Multiple SNIs, backup, load balancing, tính năng quét SNIs, test internet nhiều SNIs, trực tiếp bên trong app CORE TunnelsMux.  Tính năng chống theo dõi, thâm nhập, evade DPI  aka Deep Packet Inspection.
 
-```Cảnh báo lừa đảo, kể từ tháng 10/2023 trên mạng xã hội, Otofun.net, Voz.vn, GocMod.com, Openwrt Việt nam Facebook, Nhóm Psiphon Zalo,..v.v. Do đối tượng người nước ngoài aztecrabbit cầm đầu (đã bị cơ quan an ninh FSB đưa vào danh sách đen), xem ở đây:``` [on Dec 12, 2022 aztecrabbit's bugscanner issues#16](https://github.com/aztecrabbit/bugscanner/issues/16)
-``` ```
-
-``` ```
 
 
 ![image](https://github.com/user-attachments/assets/cfe60c54-4368-42cb-b5de-ae1cbdcae912) [![Github All Releases](https://img.shields.io/github/downloads/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/total.svg)]() <br/>
@@ -40,6 +36,15 @@ Require threaded download manager
 [<img src="https://github.com/user-attachments/assets/b94bfae5-e93a-459e-b16d-5faa8f4dd41f">](https://mirror2.internetdownloadmanager.com/idman642build15.exe?v=lt&filename=idman642build15.exe)
 
 ![image](https://github.com/user-attachments/assets/fb2c8ecd-9f48-4e04-bc4c-45fd35f02fe2)
+
+
+
+```Cảnh báo lừa đảo, kể từ tháng 10/2023 trên mạng xã hội, Otofun.net, Voz.vn, GocMod.com, Openwrt Việt nam Facebook, Nhóm Psiphon Zalo,..v.v. Do đối tượng người nước ngoài aztecrabbit cầm đầu (đã bị cơ quan an ninh FSB đưa vào danh sách đen), xem ở đây:``` [on Dec 12, 2022 aztecrabbit's bugscanner issues#16](https://github.com/aztecrabbit/bugscanner/issues/16)
+``` ```
+
+``` ```
+
+
 
 Termux + aztecrabit's Brainfuck Psiphon Pro Go ko thể chạy trên iOS và iPhone :D
 ```
