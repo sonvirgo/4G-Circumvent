@@ -3,6 +3,7 @@ Chào 2014-2020 VirgoSun™©® +84-387554874. \
 Kỷ niệm 5 năm app TunnelsMux™©!!! 2019-2024. \
 Chính chủ, độc quyền TQ (Sim Viettel 0đ 0nền, bất kỳ, bạn đang sử dụng), chúng tôi chỉ bán app vào Internet - link tải phía dưới. (click to see video). \
 Lưu ý, bản tải về khi chưa có KEY chỉ chạy DEMO. Vào được Internet trong app, ko vào được Internet tòan bộ ứng dụng trên thiết bị, do không thể bật VPN. Cần mua KEY liên hệ tác giả. \
+VPN chạy tất cả ứng dụng, đặc biệt tốt cho ứng dụng chuyên tải dữ liệu đa luồng. Riêng chơi game online, MIỄN HỎi \
 [![ỷ niệm 5 năm app TunnelsMux!!! 2019-2024. (click to see video)](https://img.youtube.com/vi/BaKaBl93XiE/0.jpg)](https://www.youtube.com/watch?v=BaKaBl93XiE "Kỷ niệm 5 năm app TunnelsMux!!! 2019-2024. (click to see video)") 
 
 4G SNI MultiScan™©2014-2020 [<img src="https://github.com/user-attachments/assets/5d48f454-e3b5-4052-9484-e39bc6de5fe6">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases)TunnelsMux® software, a [<img src="https://github.com/user-attachments/assets/4cd44ede-2ce8-41ff-a8d9-accb333e7069">](https://psiphon.ca/)'s sibling in the Cat and Mouse game against ISP's chase, for decades. [<img src="https://github.com/user-attachments/assets/b94bfae5-e93a-459e-b16d-5faa8f4dd41f">](https://mirror2.internetdownloadmanager.com/idman642build15.exe?v=lt&filename=idman642build15.exe) with co-operative speed acceleration!!!. 
