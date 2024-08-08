@@ -41,9 +41,9 @@ Require threaded download manager
 ![image](https://github.com/user-attachments/assets/fb2c8ecd-9f48-4e04-bc4c-45fd35f02fe2)
 
 
-Thanks to the Tor BSD Diversity Project  and inspire from this fork https://github.com/sonvirgo/meek \
+Thanks to the Tor BSD Diversity Project  and inspire from this fork https://github.com/sonvirgo/meek 
 
-Nguyên lý hoạt đọng là MEEK Server, ko phải V2RAy, SSH, Psiphon \
+Nguyên lý hoạt đọng là MEEK Client Server, ko phải V2Ray, SSH, Psiphon 
 
 
 ```Cảnh báo lừa đảo, kể từ tháng 10/2023 trên mạng xã hội, Otofun.net, Voz.vn, GocMod.com, Openwrt Việt nam Facebook, Nhóm Psiphon Zalo,..v.v. Do thằng người nước ngoài aztecrabbit, và thằng thuanht567 cầm đầu (đã bị cơ quan an ninh FSB đưa vào danh sách đen), xem ở đây:``` [on Dec 12, 2022 aztecrabbit's bugscanner issues#16](https://github.com/aztecrabbit/bugscanner/issues/16)
