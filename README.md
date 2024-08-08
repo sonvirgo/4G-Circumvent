@@ -17,7 +17,7 @@ iPhone Laptop/PC MacBook```  ```Linux```  ```Android```    ```Home/SOHO Server .
 [<img src="https://github.com/user-attachments/assets/9891099d-8b3a-4356-a79f-006cf52f2a85">](https://github.com/sonvirgo/App-4G-SNI-MultiScan-Commercial-Grade-WorldWide/releases/download/v1.0.1/TunnelsMux.ipa)```   ```[<img src="https://github.com/user-attachments/assets/3e9ee380-d603-4cb1-b889-6fd1bdca64ac">](https://github.com/sonvirgo/App-4G-SNI-MVietnam
 ```
 Kể từ tháng 10/2023
-1 số đối tượng dùng Termux, HC, INPV ăn cắp duy nhất 01 SNI IP xxx.x3x.xxx.x7x
+1 số thằng dùng Termux, HC, INPV ăn cắp duy nhất 01 SNI IP xxx.x3x.xxx.x7x
 Sẽ bị khóa
 Mã code terminal TERMUX scan bug SNI sau là bịp bợm bố láo ăn cắp,
 Không thể quét SNI từ TERMUX
