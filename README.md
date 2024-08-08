@@ -1,7 +1,7 @@
 # MEEK CLIENT MULTI-SNI MULTI-SCAN MULTI-DEVICE CROSS-PLATFORM
  
 Chào 2014-2020 VirgoSun™©® +84-387554874. \
-Kỷ niệm 5 năm app TunnelsMux™©!!! 2019-2024. \
+Kỷ niệm 5 năm MEEK Client app TunnelsMux™©!!! 2019-2024. \
 Chính chủ, độc quyền TQ (Sim Viettel 0đ 0nền, bất kỳ, bạn đang sử dụng), chúng tôi chỉ bán app vào Internet - link tải phía dưới. (click to see video). \
 Lưu ý, bản tải về khi chưa có KEY chỉ chạy DEMO. Vào được Internet trong app, ko vào được Internet tòan bộ ứng dụng trên thiết bị, do không thể bật VPN. Cần mua KEY liên hệ tác giả. \
 VPN chạy tất cả ứng dụng, đặc biệt tốt cho ứng dụng chuyên tải dữ liệu đa luồng như ADM, IDM, FDM.. Riêng chơi game online, MIỄN HỎI \
