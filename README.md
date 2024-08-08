@@ -48,7 +48,8 @@ Require threaded download manager
 
 
 
-Termux + aztecrabit's Brainfuck Psiphon Pro Go ko thể chạy trên iOS và iPhone :D
+Termux + aztecrabit's Brainfuck Psiphon Pro Go ko thể chạy trên iOS và iPhone :D \
+Cảnh báo 1 số thằng mod voz lừa đảo, Server Psiphon đến thời điểm 8/2024, ko thể có 1 Server Psiphon nào ở Việt nam \
 ```
 Kể từ tháng 10/2023
 1 số đối tượng dùng Termux, HC, INPV ăn cắp duy nhất 01 SNI IP xxx.x3x.xxx.x7x
