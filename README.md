@@ -14,42 +14,7 @@ Multiple SNIs, backup, load balancing, tính năng quét SNIs, test internet nhi
 
 ![image](https://github.com/user-attachments/assets/cfe60c54-4368-42cb-b5de-ae1cbdcae912) [![Github All Releases](https://img.shields.io/github/downloads/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/total.svg)]() <br/>
 iPhone Laptop/PC MacBook```  ```Linux```  ```Android```    ```Home/SOHO Server ..   
-[<img src="https://github.com/user-attachments/assets/9891099d-8b3a-4356-a79f-006cf52f2a85">](https://github.com/sonvirgo/App-4G-SNI-MultiScan-Commercial-Grade-WorldWide/releases/download/v1.0.1/TunnelsMux.ipa)```   ```[<img src="https://github.com/user-attachments/assets/3e9ee380-d603-4cb1-b889-6fd1bdca64ac">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases/download/exe/TunnelsMux-x86_64.zip)```   ```[<img src="https://github.com/user-attachments/assets/ca32a918-2fcc-4ae6-bb9d-3dd93eb1af70">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases/download/darwin/TunnelsMux-x86_64.zip)```   ```[<img src="https://github.com/user-attachments/assets/87010635-9e92-4bd0-ba1c-c7b8b21fc88f">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases/download/linux/TunnelsMux-x86_64.zip)```   ```[<img src="https://github.com/user-attachments/assets/f3bd22ee-302b-4aab-bd69-ba086166e7dd">](https://github.com/sonvirgo/App-4G-SNI-MuiltiScan-Commercial-Grade-WorldWide/releases/download/apk/app-armeabi-v7a-release.apk)
-
-1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ giới hạn 2Mbps -> 150k / 1 SIM.  Ko limit dung lượng. Đến khi hỏng SIM. (Bạn đã hiểu và đồng ý cam kết Mutual Agreement khi sử dụng app của chúng tôi. Chúng tôi luôn hỗ trợ bền bỉ tối đa, sản phẩm, dịch vụ chuyên nghiệp, độc đáo, có 1-0-2, trong khả năng có thể. Chúng tôi không cam kết các chính sách của nhà mạng. Chúng tôi không cam kết dịch vụ máy chủ VPS V2RAY)
-
-1 app duy nhất WYSIWYG. Viettel 0đ 0 nền. Tốc độ giới hạn 54Mbps -> 550k /1 SIM. Ko limit dung lượng. Đến khi hỏng SIM. 54mbps (IDM aka Internet Download Manager), 10Mbps (Visual Studio Isntaller), 5Mbps (Play Store), 3Mbps (Edge download).... (Bạn đã hiểu và đồng ý cam kết Mutual Agreement khi sử dụng app của chúng tôi. Chúng tôi luôn hỗ trợ bền bỉ tối đa, sản phẩm, dịch vụ chuyên nghiệp, độc đáo, có 1-0-2, trong khả năng có thể. Chúng tôi không cam kết các chính sách của nhà mạng. Chúng tôi không cam kết dịch vụ máy chủ VPS V2RAY)
-
-```
-MTOSocks5 <---> socks5 server 1  <-> internet, cap at 1Mbps
-            :                               
-            :                                    
-            :
-            :
-            :-> socks5 server 2  <-> internet, cap at 5Mbps
-            :                               
-            :                                    
-            :
-            :
-            :-> socks5 server 3  <-> internet, cap at 3Mbps
-```                                     
-	
-Require threaded download manager 
-[<img src="https://github.com/user-attachments/assets/b94bfae5-e93a-459e-b16d-5faa8f4dd41f">](https://mirror2.internetdownloadmanager.com/idman642build15.exe?v=lt&filename=idman642build15.exe)
-
-![image](https://github.com/user-attachments/assets/fb2c8ecd-9f48-4e04-bc4c-45fd35f02fe2)
-
-
-
-```Cảnh báo lừa đảo, kể từ tháng 10/2023 trên mạng xã hội, Otofun.net, Voz.vn, GocMod.com, Openwrt Việt nam Facebook, Nhóm Psiphon Zalo,..v.v. Do đối tượng người nước ngoài aztecrabbit cầm đầu (đã bị cơ quan an ninh FSB đưa vào danh sách đen), xem ở đây:``` [on Dec 12, 2022 aztecrabbit's bugscanner issues#16](https://github.com/aztecrabbit/bugscanner/issues/16)
-``` ```
-
-``` ```
-
-
-
-Termux + aztecrabit's Brainfuck Psiphon Pro Go ko thể chạy trên iOS và iPhone :D \
-Cảnh báo 1 số thằng mod voz lừa đảo, Server Psiphon đến thời điểm 8/2024, ko thể có 1 Server Psiphon nào ở Việt nam \
+[<img src="https://github.com/user-attachments/assets/9891099d-8b3a-4356-a79f-006cf52f2a85">](https://github.com/sonvirgo/App-4G-SNI-MultiScan-Commercial-Grade-WorldWide/releases/download/v1.0.1/TunnelsMux.ipa)```   ```[<img src="https://github.com/user-attachments/assets/3e9ee380-d603-4cb1-b889-6fd1bdca64ac">](https://github.com/sonvirgo/App-4G-SNI-MVietnam
 ```
 Kể từ tháng 10/2023
 1 số đối tượng dùng Termux, HC, INPV ăn cắp duy nhất 01 SNI IP xxx.x3x.xxx.x7x
