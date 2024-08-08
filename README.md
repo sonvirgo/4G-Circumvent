@@ -76,7 +76,7 @@ void scan(int a, int b, int c, int d, float t) {
 ```
 
 
-Lưu ý, nguyên lý ghép kênh chỉ đạt tốc độ cao với 1 số ứng dụng có hỗ trợ tải đa luồng. Mọi quảng cáo SpeedTest Termux 5Mbps 10Mbps cho tất cả ứng dụng đều là bố láo ăn cắp.
+Lưu ý, nguyên lý ghép kênh chỉ đạt tốc độ cao với 1 số ứng dụng có hỗ trợ tải đa luồng. Mọi quảng cáo SpeedTest Termux 5Mbps 10Mbps cho tất cả ứng dụng đều là bố láo ăn cắp. Thằng mod voz.vn lừa đỏa, hiện nay chưa thể có Server Psiphon đặt tại Vietnam (6/2024), doamin fronting ko thể kết nối với Server Psiphon nào đặt tại VN.
 ```
 Căn cứ vào code snippets 
 Termux ko phân chia đa luồng, do ứng dụng tự đảm nhiệm
