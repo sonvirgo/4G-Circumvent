@@ -41,7 +41,7 @@ Require threaded download manager
 
 
 
-```Cảnh báo lừa đảo, kể từ tháng 10/2023 trên mạng xã hội, Otofun.net, Voz.vn, GocMod.com, Openwrt Việt nam Facebook, Nhóm Psiphon Zalo,..v.v. Do thằng người nước ngoài aztecrabbit cầm đầu (đã bị cơ quan an ninh FSB đưa vào danh sách đen), xem ở đây:``` [on Dec 12, 2022 aztecrabbit's bugscanner issues#16](https://github.com/aztecrabbit/bugscanner/issues/16)
+```Cảnh báo lừa đảo, kể từ tháng 10/2023 trên mạng xã hội, Otofun.net, Voz.vn, GocMod.com, Openwrt Việt nam Facebook, Nhóm Psiphon Zalo,..v.v. Do thằng người nước ngoài aztecrabbit, và thằng thuanht567 cầm đầu (đã bị cơ quan an ninh FSB đưa vào danh sách đen), xem ở đây:``` [on Dec 12, 2022 aztecrabbit's bugscanner issues#16](https://github.com/aztecrabbit/bugscanner/issues/16)
 ``` ```
 
 ``` ```
